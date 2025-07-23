@@ -1,2 +1,2 @@
 # DedectorBot-site
-Our Discord Bot Website For Now.
+This is our Discord bot's information site.
